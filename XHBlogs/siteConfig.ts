@@ -5,7 +5,7 @@ export const siteConfig = {
   title: "宝藏水仙 の 宝藏之地",
   faviconUrl: "https://mybzsx.com/file/image/fu_image.jpg",
   authorName: "宝藏水仙",
-  bio: "B站UP主 · 米哈游三修玩家 · 独立创作者，用代码和热爱创造有趣的东西。",
+  bio: "B站UP主 · 米哈游三修玩家 · 独立创作者",
 
   navTitle: "宝藏水仙",
 
